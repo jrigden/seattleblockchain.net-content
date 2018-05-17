@@ -24,28 +24,5 @@ Buildings & Beer...bitcoin edition
   </p>
 </div>
 
-<div class="event">
-  <h2>May 17, 2018</h2>
-    <a href="https://www.eventbrite.com/e/buildings-beerbitcoin-edition-tickets-45675523721?aff=es2">
-    <h1>
-      Buildings & Beer...bitcoin edition
-    </h1>
-  </a>
-  <p>
-  </p>
-</div>
-
-<div class="event">
-  <h2>May 17, 2018</h2>
-    <a href="https://www.eventbrite.com/e/buildings-beerbitcoin-edition-tickets-45675523721?aff=es2">
-    <h1>
-      Buildings & Beer...bitcoin edition
-    </h1>
-  </a>
-  <p>
-aads as dsada asd 
-  </p>
-</div>
-
 
 

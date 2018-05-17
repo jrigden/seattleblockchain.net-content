@@ -1,13 +1,25 @@
 ---
+title: "Why is Cryptocurrency Obsessed with Alice and Bob?"
+description: "The two of most famous people in cryptography."
+tags: ["History", "Cryptography"]
+categories: ["Podcast"]
+date: "2018-05-02"
 author: "Jason Rigden"
 author_link: "https://twitter.com/mr_rigden"
-youtube: "QILiHiTD3uc"
-feature_image: "feature.jpg"
-title: "Why is Cryptocurrency Obsessed with Alice and Bob?"
-date: "2018-05-02"
-categories: ["The Seattle Blockchain Podcast"]
-description: "The two of most famous people in cryptography."
+canonical_url: "https://explainingcryptocurrency.net/alice_and_bob/"
 ---
+
+<div class="player">
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6549971/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</div>
+This is an episode of my other podcast, <a href="https://explainingcryptocurrency.net">Explaining Cryptocurrency.</a>
+<p>
+<a href="https://explainingcryptocurrency.net/categories/podcast/">Subscribe to the Podast</a>
+</p>
+
+
+**Intro**
+
 Hello my friends. You are listening to the very first episode of “Explaining Cryptocurrency”. I am Jason Rigden and I am your host. Thank you so much for listening.
 
 On this episode we will be talking about the two of  most famous people in cryptography. The pair have been working together for decades. The have worked with almost every cryptography researcher in the world. I am of course talking about, Alice and Bob. And the most interesting thing about Alice and Bob is that they are not even real people. 
